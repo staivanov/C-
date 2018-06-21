@@ -1,0 +1,32 @@
+An integrated development environment (IDE) or interactive development environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs offer Intelligent code completion features.
+-------------------------------------------------------------------------------------------
+
+Multi-Language IDEs
+
+
+1.Eclipse
+Eclipse is the free and open-source editor upon which many development frameworks are based. It's one of the granddaddies in its field and comes highly recommended by many a professional developer. Eclipse began as a Java development environment and has greatly expanded through a system of lightweight plugins.
+
+
+2.NetBeans
+NetBeans is neck-and-neck with Eclipse as the most-recommended IDE in this category. It's free and open-source, supports tons of languages with more plugins coming all the time, and is incredibly simple to install and use, even for a beginner.
+
+
+3.Komodo
+This enterprise-level tool might be best for the pro developer because of its higher price point. For beginners, you might also want to check out the Komodo-based, FOSS editor Open Komodo or Komodo's FOSS version, Komodo Edit.
+
+4.Aptana
+Aptana is a popular choice for web app development. Aptana Studio 2 can be used as a stand-alone IDE or can be plugged into Eclipse. Aptana comes with Firebug support built-in, and its developer community seems to release plugins for other languages as needed.
+
+5.BlackAdder
+This IDE is designed for Python and Ruby devs creating apps for Windows and Linux. It includes a text editor as well as a GUI designer that uses pyQT and QT Designer. The makers of BlackAdder allow you to test drive the IDE in a limited demo version.
+
+6.Geany
+Geany bills itself as a "small and fast" IDE, but it is by no means a lightweight. Its list of supported languages is about a block long; it's highly customizable; and it features a robust set of plugins which is open for hacking.
+
+
+
+Resources:
+http://mashable.com/
+http://en.wikipedia.org/
+

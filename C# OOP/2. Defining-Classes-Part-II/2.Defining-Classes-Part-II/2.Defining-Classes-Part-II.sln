@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Pont3D", "2.Defining-Classes-Part-II\1.Pont3D.csproj", "{ACE6F492-0ED2-4D2D-98F5-DD545AA2E174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.PersonalGenericList", "2.PersonalGenericList\2.PersonalGenericList.csproj", "{8AC26E39-DEBE-43F9-8D19-E2023EBE67E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Matrix", "3.Matrix\3.Matrix.csproj", "{4384F9A1-D3A8-4CBB-B579-A07EE298B1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE6F492-0ED2-4D2D-98F5-DD545AA2E174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE6F492-0ED2-4D2D-98F5-DD545AA2E174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE6F492-0ED2-4D2D-98F5-DD545AA2E174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE6F492-0ED2-4D2D-98F5-DD545AA2E174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC26E39-DEBE-43F9-8D19-E2023EBE67E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC26E39-DEBE-43F9-8D19-E2023EBE67E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC26E39-DEBE-43F9-8D19-E2023EBE67E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC26E39-DEBE-43F9-8D19-E2023EBE67E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4384F9A1-D3A8-4CBB-B579-A07EE298B1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4384F9A1-D3A8-4CBB-B579-A07EE298B1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4384F9A1-D3A8-4CBB-B579-A07EE298B1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4384F9A1-D3A8-4CBB-B579-A07EE298B1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
